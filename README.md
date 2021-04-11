@@ -26,6 +26,7 @@
 | ping            | know ping about API / Server             |
 | Reddit          | give you info aboutElyon from Reddit ATM |
 | uptime          | know uptime of the bot                   |
+| poll          | create poll when you want                   |
 
 ---
 
